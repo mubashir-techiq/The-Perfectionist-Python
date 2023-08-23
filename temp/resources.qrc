@@ -1,0 +1,13 @@
+<RCC>
+  <qresource prefix="newPrefix">
+    <file>pay</file>
+    <file>logon</file>
+    <file>a1</file>
+    <file>a2</file>
+    <file>a3</file>
+    <file>a4</file>
+    <file>a5</file>
+    <file>a6</file>
+    <file>logo</file>
+  </qresource>
+</RCC>

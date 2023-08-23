@@ -1,0 +1,10 @@
+8683~Cutting~250~Male
+8684~Threading~1200~Female
+8483~Shaving~300~Male
+8654~Hair Color~500~Male
+8633~Waxing~600~Female
+3684~Facial~800~Male
+1683~Facial~1400~Female
+5684~Cleansing~600~Male
+9683~FaceMask~800~Male
+0684~Padicure~900~Female

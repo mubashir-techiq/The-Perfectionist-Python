@@ -1,0 +1,13 @@
+9060~Completed~7853~Mubashir Ahmed~mubashir@gmail.com~03113314698~8683~Male~Cutting~250~9487~Fizza Zaidi~Tuesday~09:00AM to 12:00PM~0~Nice!
+5841~Approved~6230~Hamza~hamza1234~042445444~8684~Female~Threading~1200~2473~Halima Zafar~Monday~01:00PM to 03:00PM
+1360~Approved~1209~Jawad Raza~jawad@gmail.com~03362327434~False~Male~Cutting~250~1014~Suleman Shahid~Wednessday~09:00AM to 12:00PM
+5950~Approved~2209~shayan~shayan@gmail.com~03123456789~False~Male~Shaving~300~8214~Moiz Ahmed~Friday~09:00AM to 12:00PM
+5431~Payment Pending~8209~fariya~fariya@gmail.com~03123456789~False~Female~Waxing~600~8014~Faizan Hussain~Wednessday~01:00PM to 03:00PM
+4066~Approved~7853~Rida~rada@gmail.com~03123456789~False~Female~Facial~1400~8014~Faizan Hussain~Tuesday~01:00PM to 03:00PM
+8177~Approved~4209~Jawad~jawad@gmail.com~03123456789~False~Male~Shaving~300~8479~Zubair Zafar~Thursday~09:00AM to 12:00PM
+9413~Approved~7209~Wasay~wasay@gmail.com~03123456789~False~Male~FaceMask~800~8014~Faizan Hussain~Tuesday~01:00PM to 03:00PM
+3136~Pending~6230~Ameer Hamza~hamza@gmail.com~03123456789~False~Male~Cutting~250
+8030~Completed~1209~Nimra~nimra@gmail.com~03123456789~False~Male~Shaving~300~4014~Sadaf Noor~Tuesday~13~1~Not Good!
+2319~Pending~8850~sam~sam@gmail,com~03142030662~False~Male~Cutting~250
+5042~Pending~8850~anas~anas@gmail.com~0562672899~False~Male~Hair Color~500
+3205~Pending~8850~asad~asad@gmail.com~09755627899~False~Male~Facial~800
